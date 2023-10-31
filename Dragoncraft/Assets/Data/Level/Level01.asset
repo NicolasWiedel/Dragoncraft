@@ -12,7 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b81b205feebf574b90b97b907a79ea1, type: 3}
   m_Name: Level01
   m_EditorClassIdentifier: 
-  Slots: []
-  Columns: 0
-  Rows: 0
+  Slots:
+  - ItemType: 0
+    Coordinates: {x: 0, y: 0}
+  - ItemType: 0
+    Coordinates: {x: 0, y: 1}
+  - ItemType: 0
+    Coordinates: {x: 0, y: 2}
+  - ItemType: 0
+    Coordinates: {x: 1, y: 0}
+  - ItemType: 0
+    Coordinates: {x: 1, y: 1}
+  - ItemType: 0
+    Coordinates: {x: 1, y: 2}
+  - ItemType: 0
+    Coordinates: {x: 2, y: 0}
+  - ItemType: 0
+    Coordinates: {x: 2, y: 1}
+  - ItemType: 0
+    Coordinates: {x: 2, y: 2}
+  Columns: 3
+  Rows: 3
   Configuration: {fileID: 0}
