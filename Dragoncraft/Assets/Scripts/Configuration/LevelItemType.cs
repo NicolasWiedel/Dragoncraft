@@ -8,6 +8,7 @@ namespace Dragoncraft
      None,
      Tree,
      House,
-     Rock
+     Rock,
+     TreeGroup
     }
 }
